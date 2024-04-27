@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Portfolio\\Hello World\\Hello World\\Hello World.csproj",
+      "projectUniqueName": "C:\\Dev\\Portfolio\\Hello-World\\Hello World\\Hello World.csproj",
       "projectName": "Hello World",
-      "projectPath": "C:\\Dev\\Portfolio\\Hello World\\Hello World\\Hello World.csproj",
+      "projectPath": "C:\\Dev\\Portfolio\\Hello-World\\Hello World\\Hello World.csproj",
       "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Portfolio\\Hello World\\Hello World\\obj\\",
+      "outputPath": "C:\\Dev\\Portfolio\\Hello-World\\Hello World\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config"
